@@ -1,0 +1,16 @@
+[
+    {
+        "settings": [ "master" ],
+        "specs": {
+            "moj1": {
+                "type": "mojitSkel1"
+            }
+        }
+    },
+    {
+        "settings": [ "environment:development" ],
+        "staticHandling": {
+            "forceUpdate": true
+        }
+    }
+]

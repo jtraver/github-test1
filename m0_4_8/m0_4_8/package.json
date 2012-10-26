@@ -1,0 +1,30 @@
+{
+    "name": "m0_4_8",
+    "description": "jt screwdriver test for mojito-0.4.8",
+    "version": "0.0.1",
+    "author": {
+        "name": "John Traver",
+        "email": "jtraver@yahoo-inc.com"
+    },
+    "contributors": [
+          {
+              "name": "John Traver",
+              "email": "jtraver@yahoo-inc.com"
+          }
+    ],
+    "dependencies": {
+        "mojito": "0.4.x"
+    },
+    "engines": {
+        "node": "0.6.x"
+    },
+    "scripts": {
+        "start": "mojito start"
+    },
+    "yahoo": {
+        "bugzilla": {
+            "product": "Screwdriver",
+            "component": "General"
+        }
+    }
+}

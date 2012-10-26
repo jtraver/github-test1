@@ -1,0 +1,8 @@
+[{
+    "settings": [ "master" ],
+    "mojitSkel1 index": {
+        "verbs": ["get"],
+        "path": "/",
+        "call": "moj1.index"
+    }
+}]
